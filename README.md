@@ -1,10 +1,15 @@
 # Eton
 
 ## :scroll: Description
-Note taking app made to learn some good practices, with the help of Philipp Lackner YT
+Note taking app made to learn some good practices, from Philipp Lackner YT
 
+<br>
+<br>
+
+Checkout [Eton Desktop Version](https://github.com/V9vek/Eton-Desktop)
 
 ## :camera_flash: Video
+https://user-images.githubusercontent.com/40730402/150329111-357f7554-771a-4b4e-a85e-83494f1dea1c.mp4
 
 
 ## License
