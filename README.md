@@ -10,7 +10,9 @@ https://user-images.githubusercontent.com/40730402/150329111-357f7554-771a-4b4e-
 
 Checkout [Eton Desktop Version](https://github.com/V9vek/Eton-Desktop)
 <br>
-https://user-images.githubusercontent.com/40730402/151604068-83e7658f-942a-4be7-8965-d9b247f5885a.mp4
+
+https://user-images.githubusercontent.com/40730402/151604292-ed08aace-c0e0-4a11-a1bc-eea5b5fbf7d4.mp4
+
 
 
 ## License
